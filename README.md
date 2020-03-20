@@ -1,3 +1,3 @@
 # ROP
-pwning challenges from CTF's
+pwning challenges from various CTF's and Wargames.
 
